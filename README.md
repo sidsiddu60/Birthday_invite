@@ -94,7 +94,7 @@ GitHub Pages provides **free, permanent hosting** backed by a global CDN with 99
 
 1. Copy your GitHub Pages URL (e.g. `https://<your-username>.github.io/Birthday_invite/`).
 2. Paste it into any WhatsApp chat or family group.
-3. **Wait 2 seconds** before pressing Send: WhatsApp will automatically fetch and display the preview thumbnail with the title *"Two Cute to Be One ✨ Shree Vidvitha Varenya's 2nd Birthday"*.
+3. **Wait 2 seconds** before pressing Send: WhatsApp will automatically fetch and display the preview thumbnail with the title *"Shree Vidvitha Varenya's Birthday Celebrations 🎂"*.
 4. Guests can tap the link directly inside WhatsApp to experience the envelope reveal, countdown, directions, and story reel!
 
 > [!TIP]

@@ -1,10 +1,10 @@
 {
   "id": "vidvitha-2nd-birthday",
-  "title": "Shree Vidvitha Varenya's 2nd Birthday",
+  "title": "Shree Vidvitha Varenya's Birthday Celebrations",
   "celebrant": "Shree Vidvitha Varenya",
-  "milestone": "Turning 2",
-  "themeTitle": "TWO CUTE to Be ONE",
-  "tagline": "Double the giggles, twice the fun, our little princess is turning TWO!",
+  "milestone": "2nd Birthday",
+  "themeTitle": "Birthday Celebrations",
+  "tagline": "Join us to celebrate Shree Vidvitha Varenya's Birthday",
   "closingQuote": "A little princess, a big celebration!",
   "invitationMessage": "Join us to celebrate Shree Vidvitha Varenya's Birthday",
   "date": "2026-10-16",
@@ -23,14 +23,14 @@
   "storySlides": [
     {
       "badge": "You're Invited ✨",
-      "heading": "Two Cute To Be One",
-      "subtext": "Join us to celebrate Shree Vidvitha Varenya's Birthday",
+      "heading": "Shree Vidvitha Varenya",
+      "subtext": "Birthday Celebrations — Join us to celebrate Shree Vidvitha Varenya's Birthday",
       "image": "assets/story_reel_bg.jpg"
     },
     {
-      "badge": "Double the Giggles 🎂",
+      "badge": "Celebration Time 🎂",
       "heading": "Shree Vidvitha Varenya",
-      "subtext": "Double the giggles, twice the fun, our little princess is turning TWO!",
+      "subtext": "Join us to celebrate Shree Vidvitha Varenya's Birthday",
       "image": "assets/flyer_cover_opt.jpg"
     },
     {
