@@ -22,6 +22,10 @@
   gap: 12px;
 }
 
+.top-nav.centered-pill {
+  justify-content: center;
+}
+
 .pill-badge {
   display: inline-flex;
   align-items: center;

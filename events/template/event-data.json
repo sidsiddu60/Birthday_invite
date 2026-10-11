@@ -19,5 +19,13 @@
     "cityStateZip": "City, State Pin",
     "fullAddress": "Party Hall Name, Street, City, State",
     "googleMapsUrl": "https://www.google.com/maps"
+  },
+  "features": {
+    "enableStoryReel": false,
+    "enableCalendar": false,
+    "enableWhatsAppShare": false,
+    "enableGoogleMaps": true,
+    "enableAudioChime": true,
+    "enableCountdown": true
   }
 }

@@ -20,6 +20,14 @@
     "fullAddress": "M.M Party Hall, No: 31, Cholambedu Rd, Ganesh Nagar, Thirumullaivoyal, Avadi, Tamil Nadu 600062",
     "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=M.M+Party+Hall,+No:+31,+Cholambedu+Rd,+Ganesh+Nagar,+Thirumullaivoyal,+Avadi,+Tamil+Nadu+600062"
   },
+  "features": {
+    "enableStoryReel": false,
+    "enableCalendar": false,
+    "enableWhatsAppShare": false,
+    "enableGoogleMaps": true,
+    "enableAudioChime": true,
+    "enableCountdown": true
+  },
   "storySlides": [
     {
       "badge": "You're Invited ✨",

@@ -65,7 +65,7 @@
       <span class="pill-badge interactive-tap">
         <span>👑</span> Turning Two
       </span>
-      <button class="mode-toggle-btn trigger-story-reel" id="watch-reel-header-btn">
+      <button class="mode-toggle-btn trigger-story-reel" id="watch-reel-header-btn" data-feature="storyReel" style="display: none;">
         <span>📱</span> Watch Story Reel
       </button>
     </header>
@@ -161,8 +161,8 @@
           <span>📍</span> Open in Google Maps Directions
         </a>
 
-        <!-- 1-Tap Calendar Row -->
-        <div class="btn-calendar-row">
+        <!-- 1-Tap Calendar Row (Configurable Toggle) -->
+        <div class="btn-calendar-row" id="calendar-row" data-feature="calendar" style="display: none;">
           <a href="#" id="add-gcal-btn" target="_blank" rel="noopener noreferrer" class="btn-secondary">
             <span>📅</span> Google Calendar
           </a>
@@ -171,8 +171,8 @@
           </button>
         </div>
 
-        <!-- 1-Tap WhatsApp Share Forwarder -->
-        <button id="whatsapp-share-btn" class="btn-whatsapp-share" type="button">
+        <!-- 1-Tap WhatsApp Share Forwarder (Configurable Toggle) -->
+        <button id="whatsapp-share-btn" class="btn-whatsapp-share" data-feature="whatsappShare" style="display: none;" type="button">
           <span>💬</span> Forward on WhatsApp
         </button>
       </section>
@@ -186,8 +186,8 @@
         <p class="invited-signoff">With lots of love & joy</p>
       </section>
 
-      <!-- Story Reel Launch Callout Banner -->
-      <div style="text-align: center; margin-bottom: 24px;">
+      <!-- Story Reel Launch Callout Banner (Configurable Toggle) -->
+      <div id="story-reel-banner" data-feature="storyReel" style="display: none; text-align: center; margin-bottom: 24px;">
         <button class="mode-toggle-btn trigger-story-reel" style="padding: 12px 24px; font-size: 0.95rem; box-shadow: 0 6px 20px rgba(212, 175, 55, 0.45);">
           <span>🎬</span> Play Animated Story Reel
         </button>
