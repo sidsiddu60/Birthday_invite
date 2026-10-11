@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Family Celebrations & Birthday Invitations</title>
+  
+  <!-- WhatsApp & Social Media OpenGraph Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Two Cute to Be One ✨ Shree Vidvitha Varenya's 2nd Birthday">
+  <meta property="og:description" content="Join us on Friday, Oct 16th • 6:00 PM onwards at M.M Party Hall, Avadi. Tap to open invitation card & get maps navigation!">
+  <meta property="og:image" content="events/vidvitha-2nd-birthday/assets/og_preview.jpg">
+
+  <!-- Immediate Client-side Redirect to the active celebration -->
+  <script>
+    // Automatically redirect to the active upcoming celebration
+    const ACTIVE_EVENT_URL = 'events/vidvitha-2nd-birthday/';
+    // Allow users to stay on hub if ?hub=true is passed
+    const urlParams = new URLSearchParams(window.location.search);
+    if (!urlParams.get('hub')) {
+      window.location.replace(ACTIVE_EVENT_URL);
+    }
+  </script>
+
+  <link rel="stylesheet" href="shared/css/common.css">
+  <style>
+    .hub-container {
+      max-width: 480px;
+      margin: 40px auto;
+      padding: 20px;
+      text-align: center;
+    }
+    .event-card {
+      margin-top: 20px;
+      padding: 24px;
+      text-align: left;
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      transition: transform var(--transition-bounce), box-shadow var(--transition-smooth);
+    }
+    .event-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-lg);
+    }
+    .event-thumb {
+      width: 100%;
+      height: 200px;
+      border-radius: var(--radius-md);
+      object-fit: cover;
+      margin-bottom: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="hub-container">
+    <div style="font-size: 2.5rem; margin-bottom: 10px;">🎉</div>
+    <h1 class="pink-gradient-text" style="font-family: var(--font-heading-serif); font-size: 2rem; margin-bottom: 6px;">Family Celebrations</h1>
+    <p style="color: var(--color-text-muted); font-size: 0.95rem;">Select an event below or you will be automatically redirected to our active celebration.</p>
+
+    <!-- Active Celebration Card -->
+    <a href="events/vidvitha-2nd-birthday/" class="glass-panel event-card">
+      <img src="events/vidvitha-2nd-birthday/assets/og_preview.jpg" alt="Vidvitha 2nd Birthday" class="event-thumb">
+      <span class="gold-gradient-text" style="font-size: 0.76rem; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase;">Active Celebration • Oct 16</span>
+      <h2 style="font-family: var(--font-heading-serif); font-size: 1.4rem; color: var(--color-primary-dark); margin: 4px 0 6px;">
+        Shree Vidvitha Varenya's 2nd Birthday
+      </h2>
+      <p style="font-size: 0.88rem; color: var(--color-text-muted);">
+        "Two Cute to Be One" • Friday, Oct 16th, 6:00 PM onwards at M.M Party Hall, Avadi.
+      </p>
+    </a>
+  </div>
+</body>
+</html>

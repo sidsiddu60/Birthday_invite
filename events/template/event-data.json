@@ -1,0 +1,23 @@
+{
+  "id": "new-family-event",
+  "title": "Family Event Title",
+  "celebrant": "Celebrant Name",
+  "milestone": "Celebration Milestone",
+  "themeTitle": "Event Theme",
+  "tagline": "A special moment to remember and celebrate together.",
+  "closingQuote": "Looking forward to seeing you!",
+  "invitationMessage": "Join us as we celebrate this joyous milestone with family and friends.",
+  "date": "2026-12-25",
+  "time": "6:00 PM onwards",
+  "isoStartDate": "2026-12-25T18:00:00+05:30",
+  "isoEndDate": "2026-12-25T22:30:00+05:30",
+  "formattedDate": "Friday, December 25th, 2026",
+  "venue": {
+    "name": "Party Hall Name",
+    "addressLine1": "Street Address",
+    "area": "Neighborhood / Area",
+    "cityStateZip": "City, State Pin",
+    "fullAddress": "Party Hall Name, Street, City, State",
+    "googleMapsUrl": "https://www.google.com/maps"
+  }
+}

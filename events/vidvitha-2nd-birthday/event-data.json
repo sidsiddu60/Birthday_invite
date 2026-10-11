@@ -1,0 +1,49 @@
+{
+  "id": "vidvitha-2nd-birthday",
+  "title": "Shree Vidvitha Varenya's 2nd Birthday",
+  "celebrant": "Shree Vidvitha Varenya",
+  "milestone": "Turning 2",
+  "themeTitle": "TWO CUTE to Be ONE",
+  "tagline": "Double the giggles, twice the fun, our little princess is turning TWO!",
+  "closingQuote": "A little princess, a big celebration!",
+  "invitationMessage": "Join us as we celebrate 2 magical years filled with love, laughter, and sweet memories.",
+  "date": "2026-10-16",
+  "time": "6:00 PM onwards",
+  "isoStartDate": "2026-10-16T18:00:00+05:30",
+  "isoEndDate": "2026-10-16T22:30:00+05:30",
+  "formattedDate": "Friday, October 16th, 2026",
+  "venue": {
+    "name": "M.M Party Hall",
+    "addressLine1": "No: 31, Cholambedu Rd, Ganesh Nagar",
+    "area": "Thirumullaivoyal, Avadi",
+    "cityStateZip": "Tamil Nadu 600062",
+    "fullAddress": "M.M Party Hall, No: 31, Cholambedu Rd, Ganesh Nagar, Thirumullaivoyal, Avadi, Tamil Nadu 600062",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=M.M+Party+Hall,+No:+31,+Cholambedu+Rd,+Ganesh+Nagar,+Thirumullaivoyal,+Avadi,+Tamil+Nadu+600062"
+  },
+  "storySlides": [
+    {
+      "badge": "You're Invited ✨",
+      "heading": "Two Cute To Be One",
+      "subtext": "A very special milestone celebration for our darling princess!",
+      "image": "assets/story_reel_bg.jpg"
+    },
+    {
+      "badge": "Double the Giggles 🎂",
+      "heading": "Shree Vidvitha Varenya",
+      "subtext": "Our little princess is turning TWO! Filled with love, joy, and sweet memories.",
+      "image": "assets/flyer_cover_opt.jpg"
+    },
+    {
+      "badge": "Save The Date 🗓️",
+      "heading": "October 16th",
+      "subtext": "Friday • 6:00 PM onwards\nDress code: Pastel Pinks & Festive Celebration",
+      "image": "assets/og_preview.jpg"
+    },
+    {
+      "badge": "Party Destination 📍",
+      "heading": "M.M Party Hall",
+      "subtext": "Cholambedu Rd, Thirumullaivoyal, Avadi\nTap below to open Google Maps navigation!",
+      "action": "maps"
+    }
+  ]
+}

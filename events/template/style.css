@@ -1,0 +1,39 @@
+/* Template Event Styles */
+.app-container {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 16px 16px 80px;
+}
+.hero-card {
+  padding: 24px 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.countdown-card, .details-card {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.countdown-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+.countdown-box {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: var(--radius-md);
+  padding: 10px 4px;
+  text-align: center;
+}
+.btn-primary-maps {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  background: linear-gradient(135deg, #c2185b, #e91e63);
+  color: #fff;
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  font-weight: 700;
+}
