@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // 5. Calendar Actions
   const eventDetails = {
     title: "Shree Vidvitha Varenya's 2nd Birthday Celebration 🎂",
-    details: "Double the giggles, twice the fun, our little princess is turning TWO! Join us as we celebrate 2 magical years filled with love, laughter, and sweet memories.",
+    details: "Two Cute to Be One — Double the giggles, twice the fun, our little princess is turning TWO! Join us to celebrate Shree Vidvitha Varenya's Birthday.",
     location: "M.M Party Hall, No: 31, Cholambedu Rd, Ganesh Nagar, Thirumullaivoyal, Avadi, Tamil Nadu 600062",
     startDate: '2026-10-16T18:00:00+05:30',
     endDate: '2026-10-16T22:30:00+05:30',
